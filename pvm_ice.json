@@ -757,19 +757,19 @@
       }
     },
     {
-      "uid": "3RFdUWVHEK0F2D1iSZQvELbWBFg",
-      "tmx_id": 299349,
-      "name": "[SSSSSIC] - Subliminal ft' servechilled",
-      "author": "sumi.ice",
+      "uid": "aYUff22vLmmTdOTUmTIt4xiesfk",
+      "tmx_id": 232230,
+      "name": "waltz",
+      "author": "sophie.ice",
       "mod": "",
-      "difficulty": 1,
+      "difficulty": 3,
       "pvm": {
         "grade": "S",
         "times": [
-          66200,
-          65500,
-          64900,
-          64500
+          72500,
+          71800,
+          71200,
+          70800
         ]
       }
     },
