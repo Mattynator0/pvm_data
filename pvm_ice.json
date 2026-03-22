@@ -9,17 +9,17 @@
       {
         "name": "Frost",
         "icon": "\uF111",
-        "colour": "4DF"
+        "colour": "0CE"
       },
       {
         "name": "Cryogenic",
         "icon": "\uF111",
-        "colour": "2BF"
+        "colour": "06B"
       },
       {
         "name": "Absolute Zero",
         "icon": "\uF111",
-        "colour": "17C"
+        "colour": "029"
       }
     ],
     "id": 4
@@ -179,24 +179,24 @@
       }
     },
     {
-      "uid": "Hm3GtK04tnsPd3PJK6Sq8YknwO0",
-      "tmx_id": 46214,
-      "name": "1 2 3 - Mikey B - Scenery",
-      "author": "Mas_MFP",
-      "mod": "",
+      "uid": "gcSQ15AVYVIdd5OTewTfKxExfo9",
+      "tmx_id": 46341,
+      "name": "NAC - The Bridge",
+      "author": "Ealipse",
+      "mod": "https://images.mania-exchange.com/community/mods/TMXmas2020.zip",
       "difficulty": 0,
       "pvm": {
         "grade": "CLASSIC",
         "times": [
-          30350,
-          30100,
-          29850,
-          29650
+          42900,
+          42600,
+          42300,
+          42050
         ]
       }
     },
     {
-      "uid": "_uRcOrecRjKPX2S6lzJ82nWLE_b",
+      "uid": "QEW4dXZt4W014P0yDyGv5vKNw35",
       "tmx_id": 54425,
       "name": "Winter Arena 2",
       "author": "Wojtek1995",
