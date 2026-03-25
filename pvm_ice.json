@@ -417,19 +417,19 @@
       }
     },
     {
-      "uid": "WNiuqbglmhtLRSNy19pIYWSFtyh",
-      "tmx_id": 90609,
-      "name": "MIC - Marginals",
+      "uid": "eTaOgHgULRZFJKKijjhgcyCbDXh",
+      "tmx_id": 88815,
+      "name": "MIC - Combing",
       "author": "DoogieMD",
       "mod": "",
       "difficulty": 1,
       "pvm": {
         "grade": "B",
         "times": [
-          43000,
-          42600,
-          42300,
-          42000
+          44600,
+          44200,
+          43850,
+          43650
         ]
       }
     },
