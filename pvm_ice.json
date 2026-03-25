@@ -43,19 +43,19 @@
       }
     },
     {
-      "uid": "fq0DLmVQd31iODd_J7WQvbX4QOd",
-      "tmx_id": 107278,
-      "name": "When the Snow Falls",
-      "author": "the.capman",
+      "uid": "VdSwhjFtNpQFri13JkaTY_vlA4c",
+      "tmx_id": 139638,
+      "name": "Aubergine",
+      "author": "TheJermu",
       "mod": "",
       "difficulty": 0,
       "pvm": {
         "grade": "E",
         "times": [
-          26000,
-          25800,
-          25550,
-          25350
+          24000,
+          23750,
+          23500,
+          23350
         ]
       }
     },
