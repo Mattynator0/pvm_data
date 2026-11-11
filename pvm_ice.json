@@ -31,174 +31,54 @@
   },
   "maps": [
     {
-      "uid": "Li6_LWhow3L5Hk7OT2mAhKYHY9",
-      "tmx_id": 130467,
-      "name": "Iskaffe",
-      "author": "willeknas",
-      "mod": "",
-      "difficulty": 1,
-      "pvm": {
-        "grade": "E",
-        "times": [
-          30300,
-          29800,
-          29500,
-          29250,
-          29050
-        ]
-      }
-    },
-    {
-      "uid": "VdSwhjFtNpQFri13JkaTY_vlA4c",
-      "tmx_id": 139638,
-      "name": "Aubergine",
-      "author": "TheJermu",
-      "mod": "",
-      "difficulty": 0,
-      "pvm": {
-        "grade": "E",
-        "times": [
-          24400,
-          24000,
-          23750,
-          23500,
-          23350
-        ]
-      }
-    },
-    {
-      "uid": "hHR25eSum7Gmx61RLtwQKr4Ctji",
-      "tmx_id": 243027,
-      "name": "Glacial Ice Campaign [04]",
-      "author": "GlacialMapping",
-      "mod": "",
-      "difficulty": 0,
-      "pvm": {
-        "grade": "E",
-        "times": [
-          33400,
-          32900,
-          32600,
-          32350,
-          32200
-        ]
-      }
-    },
-    {
-      "uid": "3d3ihXAHCyEQbUYrseTGPt6mvS4",
-      "tmx_id": 99292,
-      "name": "Quit while you're ahead",
-      "author": "yukionna...",
-      "mod": "",
-      "difficulty": 0,
-      "pvm": {
-        "grade": "E",
-        "times": [
-          27700,
-          27300,
-          27000,
-          26700,
-          26500
-        ]
-      }
-    },
-    {
-      "uid": "YG5x1izEmjT_rkBxhz7_Yz5uplf",
-      "tmx_id": 128066,
-      "name": "Purple Lining",
-      "author": "NineToFiveGamer",
-      "mod": "",
-      "difficulty": 0,
-      "pvm": {
-        "grade": "E",
-        "times": [
-          24600,
-          24250,
-          24000,
-          23800,
-          23600
-        ]
-      }
-    },
-    {
-      "uid": "_uRcOrecRjKPX2S6lzJ82nWLE_b",
-      "tmx_id": 57051,
-      "name": "Gluttony (ft Rage_TM)",
-      "author": "Leozje",
-      "mod": "",
-      "difficulty": 2,
+      "tmx_id": 78553,
+      "name": "ISL - Harmony ft' Capman",
+      "author": "XLRB",
       "pvm": {
         "grade": "CLASSIC",
         "times": [
-          40500,
-          39800,
-          39400,
-          39000,
-          38700
-        ]
-      }
-    },
-    {
-      "uid": "uSaroKhXEA0Mcd545ISeLAT4ked",
-      "tmx_id": 31443,
-      "name": "Ice Surfing 2",
-      "author": "Mannekeh",
-      "mod": "",
-      "difficulty": 1,
-      "pvm": {
-        "grade": "CLASSIC",
-        "times": [
-          48100,
           47500,
-          47100,
           46700,
-          46400
+          46200,
+          45850,
+          45600
         ]
       }
     },
     {
-      "uid": "P3K3heH4fI58po7bQSNisSkjcAf",
-      "tmx_id": 56228,
-      "name": "Bikini Bottom",
-      "author": "Elfving-",
-      "mod": "https://drive.google.com/u/0/uc?id=1vJNZmLFLdgR2mpwAhVfT0PfHy2g7Njkl&amp;export=download",
-      "difficulty": 2,
+      "tmx_id": 58081,
+      "name": "Lorem Ipsum",
+      "author": "Kudajingkrak12",
       "pvm": {
         "grade": "CLASSIC",
         "times": [
-          31900,
-          31400,
-          30950,
-          30600,
-          30150
-        ]
-      }
-    },
-    {
-      "uid": "LtcwvUX7ohumwFNFjTdS_okaSV1",
-      "tmx_id": 23622,
-      "name": "EIC | Makarai",
-      "author": "Kudz.",
-      "mod": "",
-      "difficulty": 1,
-      "pvm": {
-        "grade": "CLASSIC",
-        "times": [
-          38500,
-          38000,
-          37600,
+          37800,
           37300,
-          37000
+          37000,
+          36750,
+          36550
         ]
       }
     },
     {
-      "uid": "gcSQ15AVYVIdd5OTewTfKxExfo9",
+      "tmx_id": 54474,
+      "name": "Kaldastr",
+      "author": "BerzerkTM",
+      "pvm": {
+        "grade": "CLASSIC",
+        "times": [
+          52100,
+          51500,
+          51100,
+          50750,
+          50500
+        ]
+      }
+    },
+    {
       "tmx_id": 46341,
       "name": "NAC - The Bridge",
       "author": "Ealipse",
-      "mod": "https://images.mania-exchange.com/community/mods/TMXmas2020.zip",
-      "difficulty": 0,
       "pvm": {
         "grade": "CLASSIC",
         "times": [
@@ -211,408 +91,24 @@
       }
     },
     {
-      "uid": "QEW4dXZt4W014P0yDyGv5vKNw35",
-      "tmx_id": 54425,
-      "name": "Winter Arena 2",
-      "author": "Wojtek1995",
-      "mod": "",
-      "difficulty": 0,
+      "tmx_id": 23622,
+      "name": "EIC | Makarai",
+      "author": "Kudz.",
       "pvm": {
-        "grade": "D",
+        "grade": "CLASSIC",
         "times": [
-          43000,
-          42400,
-          42000,
-          41700,
-          41500
+          38500,
+          38000,
+          37600,
+          37300,
+          37000
         ]
       }
     },
     {
-      "uid": "HCFU8ApjCHbjRzMNhDArPauiPF8",
-      "tmx_id": 49508,
-      "name": "Cold Sweat ft' Scarzor",
-      "author": "Sympthome",
-      "mod": "",
-      "difficulty": 0,
-      "pvm": {
-        "grade": "D",
-        "times": [
-          37250,
-          36800,
-          36550,
-          36300,
-          36100
-        ]
-      }
-    },
-    {
-      "uid": "CGI5SKp8hqxHwSxTFT83Gb_3ul4",
-      "tmx_id": 249792,
-      "name": "[TiM IC] Douleur",
-      "author": "SlideLock",
-      "mod": "",
-      "difficulty": 0,
-      "pvm": {
-        "grade": "D",
-        "times": [
-          36300,
-          35800,
-          35450,
-          35150,
-          34900
-        ]
-      }
-    },
-    {
-      "uid": "fCwYMt0hM2tCttQXC4bjzhpyHFm",
-      "tmx_id": 55590,
-      "name": "Ocean Ice",
-      "author": "Ealipse",
-      "mod": "",
-      "difficulty": 1,
-      "pvm": {
-        "grade": "D",
-        "times": [
-          57200,
-          56400,
-          55900,
-          55450,
-          55150
-        ]
-      }
-    },
-    {
-      "uid": "_I_2IinwwsmHhu0fO9gijUrsGyi",
-      "tmx_id": 165594,
-      "name": "Blim",
-      "author": "TNTree.",
-      "mod": "",
-      "difficulty": 0,
-      "pvm": {
-        "grade": "D",
-        "times": [
-          41600,
-          41200,
-          40900,
-          40700,
-          40500
-        ]
-      }
-    },
-    {
-      "uid": "_9pznTeS0Td32lWYS8pOkcsscn8",
-      "tmx_id": 265460,
-      "name": "Qual ft Thounej",
-      "author": "SlideLock",
-      "mod": "",
-      "difficulty": 0,
-      "pvm": {
-        "grade": "C",
-        "times": [
-          42600,
-          42100,
-          41800,
-          41550,
-          41300
-        ]
-      }
-    },
-    {
-      "uid": "UCLY2foo1FjOUxqzM9n7gtaiaKc",
-      "tmx_id": 159269,
-      "name": "Gelifracción ft xPPHx",
-      "author": "the.capman",
-      "mod": "",
-      "difficulty": 1,
-      "pvm": {
-        "grade": "C",
-        "times": [
-          43600,
-          43200,
-          42950,
-          42700,
-          42500
-        ]
-      }
-    },
-    {
-      "uid": "QoDrQYZyeuCVRRj55SxABCD3vS2",
-      "tmx_id": 133384,
-      "name": "VoidWalker",
-      "author": "NineToFiveGamer",
-      "mod": "",
-      "difficulty": 1,
-      "pvm": {
-        "grade": "C",
-        "times": [
-          48200,
-          47600,
-          47250,
-          46950,
-          46700
-        ]
-      }
-    },
-    {
-      "uid": "AicCEZd9sKgbCP7Y2k22JT0Y0_c",
-      "tmx_id": 177006,
-      "name": "IOTW - BOG",
-      "author": "Thounej",
-      "mod": "https://cdn.evotm.com/tm2020/EVO_MOD.zip",
-      "difficulty": 0,
-      "pvm": {
-        "grade": "C",
-        "times": [
-          40400,
-          39900,
-          39600,
-          39300,
-          39100
-        ]
-      }
-    },
-    {
-      "uid": "CIp8Yzhdyeg1RxeAhggFPQPexxf",
-      "tmx_id": 198345,
-      "name": "Cryosphere ft' Henkisme",
-      "author": "Thounej",
-      "mod": "",
-      "difficulty": 0,
-      "pvm": {
-        "grade": "C",
-        "times": [
-          44900,
-          44400,
-          44100,
-          43800,
-          43550
-        ]
-      }
-    },
-    {
-      "uid": "zXDRM3U0Lu4jdcL30QvLetqw1Uk",
-      "tmx_id": 294597,
-      "name": "TM Games - Sea Krait",
-      "author": "Henkisme",
-      "mod": "",
-      "difficulty": 0,
-      "pvm": {
-        "grade": "B",
-        "times": [
-          48800,
-          48300,
-          48000,
-          47750,
-          47500
-        ]
-      }
-    },
-    {
-      "uid": "BnThoR6AlvcEt8l5Lm0MJZn5MA4",
-      "tmx_id": 76922,
-      "name": "ISL - New Wave",
-      "author": "sophie.ice",
-      "mod": "",
-      "difficulty": 2,
-      "pvm": {
-        "grade": "B",
-        "times": [
-          46000,
-          45400,
-          45000,
-          44600,
-          44350
-        ]
-      }
-    },
-    {
-      "uid": "56dzEX9YJJKPFAPtm0Rizuei2e7",
-      "tmx_id": 272193,
-      "name": "GSL III - Days ft Thounej",
-      "author": "Henkisme",
-      "mod": "",
-      "difficulty": 0,
-      "pvm": {
-        "grade": "B",
-        "times": [
-          44800,
-          44350,
-          44000,
-          43750,
-          43500
-        ]
-      }
-    },
-    {
-      "uid": "eTaOgHgULRZFJKKijjhgcyCbDXh",
-      "tmx_id": 88815,
-      "name": "MIC - Combing",
-      "author": "DoogieMD",
-      "mod": "",
-      "difficulty": 1,
-      "pvm": {
-        "grade": "B",
-        "times": [
-          45200,
-          44600,
-          44200,
-          43850,
-          43650
-        ]
-      }
-    },
-    {
-      "uid": "cwmIdFslALr73G4u43K8EvuhsNg",
-      "tmx_id": 259722,
-      "name": "Altitude ft' Ealipse",
-      "author": "the.capman",
-      "mod": "",
-      "difficulty": 1,
-      "pvm": {
-        "grade": "B",
-        "times": [
-          54600,
-          53900,
-          53500,
-          53100,
-          52750
-        ]
-      }
-    },
-    {
-      "uid": "32XuVQeze0QL7TQu8X6lq18cZna",
-      "tmx_id": 161884,
-      "name": "$pin2win2 ft Tag",
-      "author": "BURLYpog",
-      "mod": "",
-      "difficulty": 2,
-      "pvm": {
-        "grade": "SPIN",
-        "times": [
-          35000,
-          34300,
-          33800,
-          33400,
-          33100
-        ]
-      }
-    },
-    {
-      "uid": "8u1iCJvwQumaZcHzkdp8Kwg6imk",
-      "tmx_id": 199015,
-      "name": "[REVIVAL] Take A Look Around ft' Norbi",
-      "author": "BURLYpog",
-      "mod": "",
-      "difficulty": 3,
-      "pvm": {
-        "grade": "SPIN",
-        "times": [
-          44200,
-          43500,
-          42900,
-          42300,
-          41800
-        ]
-      }
-    },
-    {
-      "uid": "BSXkAMFaJQFtT3vbdZyaYZhgH2c",
-      "tmx_id": 86202,
-      "name": "Spin Station Xeru",
-      "author": "Henkisme",
-      "mod": "",
-      "difficulty": 2,
-      "pvm": {
-        "grade": "SPIN",
-        "times": [
-          43800,
-          43200,
-          42700,
-          42300,
-          42000
-        ]
-      }
-    },
-    {
-      "uid": "xsBIINZa10KzKOtrSt_oxEAnHX5",
-      "tmx_id": 282059,
-      "name": "ANGULAR ↻ MOMENTUM",
-      "author": "Rae.cute",
-      "mod": "",
-      "difficulty": 2,
-      "pvm": {
-        "grade": "SPIN",
-        "times": [
-          44200,
-          43500,
-          42900,
-          42400,
-          42000
-        ]
-      }
-    },
-    {
-      "uid": "WXMKca8cI_9r4jH6NGwxibJHQhc",
-      "tmx_id": 243048,
-      "name": "Glacial Ice Campaign [21]",
-      "author": "GlacialMapping",
-      "mod": "",
-      "difficulty": 3,
-      "pvm": {
-        "grade": "SPIN",
-        "times": [
-          68400,
-          67400,
-          66600,
-          66000,
-          65500
-        ]
-      }
-    },
-    {
-      "uid": "KrYRMqNCT1DZS_YPAroi0QN9oZi",
-      "tmx_id": 170699,
-      "name": "RAGEY",
-      "author": "Henkisme",
-      "mod": "",
-      "difficulty": 2,
-      "pvm": {
-        "grade": "MIXED",
-        "times": [
-          62000,
-          61200,
-          60600,
-          60200,
-          59800
-        ]
-      }
-    },
-    {
-      "uid": "_gunybRWLZufEhwVIKluPDZNhkc",
-      "tmx_id": 196542,
-      "name": "GPL | Precaution",
-      "author": "Whizzy..",
-      "mod": "",
-      "difficulty": 2,
-      "pvm": {
-        "grade": "MIXED",
-        "times": [
-          68800,
-          67900,
-          67300,
-          66800,
-          66300
-        ]
-      }
-    },
-    {
-      "uid": "_tDQmxg1rHa9nKr1KTms5c1_c86",
       "tmx_id": 279948,
       "name": "GNC II - Hans Island ft' envydmn",
       "author": "DoogieMD",
-      "mod": "",
-      "difficulty": 2,
       "pvm": {
         "grade": "MIXED",
         "times": [
@@ -625,12 +121,24 @@
       }
     },
     {
-      "uid": "JECVpmJ1mqCJQxLnCyDinnfAvn6",
+      "tmx_id": 196542,
+      "name": "GPL | Precaution",
+      "author": "Whizzy..",
+      "pvm": {
+        "grade": "MIXED",
+        "times": [
+          68800,
+          67900,
+          67300,
+          66800,
+          66300
+        ]
+      }
+    },
+    {
       "tmx_id": 184814,
       "name": "SxG - Barebones",
       "author": "Roxiie",
-      "mod": "",
-      "difficulty": 2,
       "pvm": {
         "grade": "MIXED",
         "times": [
@@ -643,336 +151,69 @@
       }
     },
     {
-      "uid": "YSeTCRyJpvPgp7QcMBcl55ggC0j",
       "tmx_id": 174544,
       "name": "GH - On Your Own",
       "author": "DoogieMD",
-      "mod": "",
-      "difficulty": 1,
       "pvm": {
         "grade": "MIXED",
         "times": [
-          62700,
-          61900,
-          61400,
-          60950,
-          60600
+          63000,
+          62100,
+          61500,
+          61000,
+          60700
         ]
       }
     },
     {
-      "uid": "CNpZEnA1qNVAtLtTZil8kh7EXzb",
-      "tmx_id": 151398,
-      "name": "PIL - Clarity",
-      "author": "Keffin",
-      "mod": "",
-      "difficulty": 2,
-      "pvm": {
-        "grade": "A",
-        "times": [
-          55900,
-          55200,
-          54700,
-          54300,
-          54000
-        ]
-      }
-    },
-    {
-      "uid": "x4LBZkSAnbSw1ySNX_guCiGxSp0",
-      "tmx_id": 187717,
-      "name": "GIC II | Nelos",
-      "author": "Thounej",
-      "mod": "",
-      "difficulty": 1,
-      "pvm": {
-        "grade": "A",
-        "times": [
-          50200,
-          49600,
-          49200,
-          48800,
-          48500
-        ]
-      }
-    },
-    {
-      "uid": "K396w2Gb1AU5faL5wiDC7XhgE06",
-      "tmx_id": 182759,
-      "name": "RRCS - Gripping",
-      "author": "Roxiie",
-      "mod": "",
-      "difficulty": 1,
-      "pvm": {
-        "grade": "A",
-        "times": [
-          50000,
-          49250,
-          48750,
-          48300,
-          48000
-        ]
-      }
-    },
-    {
-      "uid": "Hb56h3DIa9_uj2NFUHZ9K5NEmZg",
-      "tmx_id": 176373,
-      "name": "GIC - Kuraokami",
-      "author": "quoT",
-      "mod": "",
-      "difficulty": 2,
-      "pvm": {
-        "grade": "A",
-        "times": [
-          52400,
-          51800,
-          51400,
-          50950,
-          50600
-        ]
-      }
-    },
-    {
-      "uid": "MqcHBTaXt7XJsmv3Mst4wzuGaM1",
-      "tmx_id": 150763,
-      "name": "PIL - Snowy Crater",
-      "author": "NineToFiveGamer",
-      "mod": "",
-      "difficulty": 1,
-      "pvm": {
-        "grade": "A",
-        "times": [
-          50200,
-          49600,
-          49200,
-          48750,
-          48450
-        ]
-      }
-    },
-    {
-      "uid": "JvR1wCIWKnuJ8uV0xcevQ8MvcK8",
-      "tmx_id": 123979,
-      "name": "XPIce - Tonguetwister",
-      "author": "TheJermu",
-      "mod": "https://cdn.evotm.com/tm2020/XPEVO_MOD.zip",
-      "difficulty": 2,
-      "pvm": {
-        "grade": "S",
-        "times": [
-          55400,
-          54600,
-          53900,
-          53300,
-          52800
-        ]
-      }
-    },
-    {
-      "uid": "2ueWIsDnjfjNkb67Un3ZPE5QWm8",
-      "tmx_id": 217176,
-      "name": "PIL - Sven",
-      "author": "Keffin",
-      "mod": "PIL_mod",
-      "difficulty": 3,
-      "pvm": {
-        "grade": "S",
-        "times": [
-          62500,
-          61800,
-          61300,
-          60900,
-          60600
-        ]
-      }
-    },
-    {
-      "uid": "lpWVTLhnU_AVT706VHpl6wCzJDf",
-      "tmx_id": 231804,
-      "name": "RINGS OF FATE",
-      "author": "the.capman",
-      "mod": "",
-      "difficulty": 2,
-      "pvm": {
-        "grade": "S",
-        "times": [
-          60400,
-          59600,
-          59000,
-          58500,
-          58150
-        ]
-      }
-    },
-    {
-      "uid": "aYUff22vLmmTdOTUmTIt4xiesfk",
-      "tmx_id": 232230,
-      "name": "waltz",
-      "author": "sophie.ice",
-      "mod": "",
-      "difficulty": 3,
-      "pvm": {
-        "grade": "S",
-        "times": [
-          74000,
-          72500,
-          71800,
-          71200,
-          70800
-        ]
-      }
-    },
-    {
-      "uid": "T7tcl8Vd5rU4yfT0rw8j2m3kPE6",
-      "tmx_id": 222726,
-      "name": "PIL - The Factory Must Grow ft' Doogie",
+      "tmx_id": 170699,
+      "name": "RAGEY",
       "author": "Henkisme",
-      "mod": "https://download.dashmap.live/16649d2f-1a0d-4e0a-a814-48f753efd68c/PIL_mod.zip",
-      "difficulty": 1,
       "pvm": {
-        "grade": "S",
+        "grade": "MIXED",
         "times": [
-          65400,
-          64500,
-          63850,
-          63300,
-          62900
+          62000,
+          61200,
+          60600,
+          60200,
+          59800
         ]
       }
     },
     {
-      "uid": "Po9_Gh0SJOdBNLH_4R4bz6jJe7",
-      "tmx_id": 294189,
-      "name": "PIL - Delight ft' henkisme",
-      "author": "Thounej",
-      "mod": "https://download.dashmap.live/16649d2f-1a0d-4e0a-a814-48f753efd68c/PIL_mod.zip",
-      "difficulty": 2,
+      "tmx_id": 316830,
+      "name": "[REVIVAL 2] Alcedo atthis",
+      "author": "Servechilled1",
       "pvm": {
-        "grade": "S+",
+        "grade": "ENDURO",
         "times": [
-          68000,
-          67200,
-          66600,
-          66100,
-          65700
+          390000,
+          370000,
+          355000,
+          348000,
+          345000
         ]
       }
     },
     {
-      "uid": "LsXwu2h_JciSePVI2YnByDv4Wt0",
-      "tmx_id": 263650,
-      "name": "XPIce25  - dopamine",
-      "author": "Thounej",
-      "mod": "https://cdn.evotm.com/tm2020/XPEVO25_MOD_20250730v1.zip",
-      "difficulty": 1,
-      "pvm": {
-        "grade": "S+",
-        "times": [
-          73500,
-          72400,
-          71600,
-          71000,
-          70600
-        ]
-      }
-    },
-    {
-      "uid": "cRoEqIF5cp2yYGWF5SGIGeLnlkl",
-      "tmx_id": 265343,
-      "name": "XPIce25 - Encoder",
-      "author": "Henkisme",
-      "mod": "https://cdn.evotm.com/tm2020/XPEVO25_MOD_20250730v1.zip",
-      "difficulty": 1,
-      "pvm": {
-        "grade": "S+",
-        "times": [
-          65000,
-          64200,
-          63550,
-          63050,
-          62650
-        ]
-      }
-    },
-    {
-      "uid": "4pY70Ibu4fnNeDq3lMLbTvXBdWf",
-      "tmx_id": 224393,
-      "name": "PIL - Loquacious ft DL",
-      "author": "burntbagels",
-      "mod": "https://download.dashmap.live/16649d2f-1a0d-4e0a-a814-48f753efd68c/PIL_mod.zip",
-      "difficulty": 1,
-      "pvm": {
-        "grade": "S+",
-        "times": [
-          62500,
-          61800,
-          61250,
-          60800,
-          60500
-        ]
-      }
-    },
-    {
-      "uid": "8a6A13EyNZPvp1E3a7Y2JTwAqEc",
-      "tmx_id": 205064,
-      "name": "GNC - Hyldeblomst ft' Woop",
+      "tmx_id": 302812,
+      "name": "Beychevelle",
       "author": "DoogieMD",
-      "mod": "",
-      "difficulty": 2,
-      "pvm": {
-        "grade": "S+",
-        "times": [
-          71200,
-          70200,
-          69500,
-          68900,
-          68500
-        ]
-      }
-    },
-    {
-      "uid": "W5ALn5E1vH7ye6hZ9xzTbYSioCm",
-      "tmx_id": 56915,
-      "name": "NAC - Hypothermia",
-      "author": "Ealipse",
-      "mod": "",
-      "difficulty": 1,
       "pvm": {
         "grade": "ENDURO",
         "times": [
-          184000,
-          180000,
-          178000,
-          176500,
-          175000
+          240000,
+          225000,
+          219000,
+          214000,
+          211000
         ]
       }
     },
     {
-      "uid": "vT3kxhMtubgbD_1NxptIsemqxk8",
-      "tmx_id": 163269,
-      "name": "Bloodlust",
-      "author": "TNTree",
-      "mod": "",
-      "difficulty": 3,
-      "pvm": {
-        "grade": "ENDURO",
-        "times": [
-          300000,
-          200000,
-          165000,
-          148000,
-          136000
-        ]
-      }
-    },
-    {
-      "uid": "TVe87SF65aJyICuM3YHGabpD3fm",
       "tmx_id": 273055,
       "name": "Unearth",
-      "author": "Maoaana",
-      "mod": "",
-      "difficulty": 1,
+      "author": "MaoaanaMaps",
       "pvm": {
         "grade": "ENDURO",
         "times": [
@@ -985,38 +226,557 @@
       }
     },
     {
-      "uid": "Umjal5N7Fp503IF0Rn4rr5ACvW6",
       "tmx_id": 212779,
       "name": "Float",
       "author": "the.capman",
-      "mod": "",
-      "difficulty": 1,
       "pvm": {
         "grade": "ENDURO",
         "times": [
-          255000,
-          240000,
-          230000,
-          223000,
-          218000
+          280000,
+          250000,
+          235000,
+          225000,
+          220000
         ]
       }
     },
     {
-      "uid": "iXpIYWZVEgKNNa1Jkzzi6ovMRch",
-      "tmx_id": 135031,
-      "name": "Tambouille",
-      "author": "Henkisme",
-      "mod": "",
-      "difficulty": 0,
+      "tmx_id": 56915,
+      "name": "NAC - Hypothermia",
+      "author": "Ealipse",
       "pvm": {
         "grade": "ENDURO",
         "times": [
-          840000,
-          720000,
-          670000,
-          640000,
-          615000
+          200000,
+          190000,
+          184000,
+          180000,
+          177000
+        ]
+      }
+    },
+    {
+      "tmx_id": 243027,
+      "name": "Glacial Ice Campaign [04]",
+      "author": "GlacialMapping",
+      "pvm": {
+        "grade": "E",
+        "times": [
+          33400,
+          32900,
+          32600,
+          32350,
+          32200
+        ]
+      }
+    },
+    {
+      "tmx_id": 139638,
+      "name": "Aubergine",
+      "author": "TheJermu",
+      "pvm": {
+        "grade": "E",
+        "times": [
+          24400,
+          24000,
+          23750,
+          23500,
+          23350
+        ]
+      }
+    },
+    {
+      "tmx_id": 130467,
+      "name": "Iskaffe",
+      "author": "willeknas",
+      "pvm": {
+        "grade": "E",
+        "times": [
+          30300,
+          29800,
+          29500,
+          29250,
+          29050
+        ]
+      }
+    },
+    {
+      "tmx_id": 67762,
+      "name": "[SIT] Slide Extensions",
+      "author": "Scarzor",
+      "pvm": {
+        "grade": "E",
+        "times": [
+          20700,
+          20400,
+          20200,
+          20050,
+          19950
+        ]
+      }
+    },
+    {
+      "tmx_id": 59371,
+      "name": "The Dugout",
+      "author": "DoogieMD",
+      "pvm": {
+        "grade": "E",
+        "times": [
+          26000,
+          25700,
+          25500,
+          25400,
+          25300
+        ]
+      }
+    },
+    {
+      "tmx_id": 367502,
+      "name": "BLiukuri",
+      "author": "Thounej",
+      "pvm": {
+        "grade": "D",
+        "times": [
+          45500,
+          45000,
+          44700,
+          44450,
+          44250
+        ]
+      }
+    },
+    {
+      "tmx_id": 249792,
+      "name": "[TiM IC] Douleur",
+      "author": "SlideLock",
+      "pvm": {
+        "grade": "D",
+        "times": [
+          36300,
+          35800,
+          35400,
+          35100,
+          34900
+        ]
+      }
+    },
+    {
+      "tmx_id": 165594,
+      "name": "Blim",
+      "author": "TNTree",
+      "pvm": {
+        "grade": "D",
+        "times": [
+          41600,
+          41200,
+          40900,
+          40700,
+          40500
+        ]
+      }
+    },
+    {
+      "tmx_id": 165568,
+      "name": "Freezing Field",
+      "author": "DoogieMD",
+      "pvm": {
+        "grade": "D",
+        "times": [
+          41600,
+          41100,
+          40700,
+          40400,
+          40200
+        ]
+      }
+    },
+    {
+      "tmx_id": 49508,
+      "name": "Cold Sweat ft' Scarzor",
+      "author": "Sympthome",
+      "pvm": {
+        "grade": "D",
+        "times": [
+          37250,
+          36800,
+          36550,
+          36300,
+          36100
+        ]
+      }
+    },
+    {
+      "tmx_id": 265460,
+      "name": " Qual ft Thounej",
+      "author": "SlideLock",
+      "pvm": {
+        "grade": "C",
+        "times": [
+          42600,
+          42100,
+          41800,
+          41550,
+          41300
+        ]
+      }
+    },
+    {
+      "tmx_id": 198345,
+      "name": "Cryosphere ft' Henkisme",
+      "author": "Thounej",
+      "pvm": {
+        "grade": "C",
+        "times": [
+          44900,
+          44400,
+          44100,
+          43800,
+          43550
+        ]
+      }
+    },
+    {
+      "tmx_id": 177006,
+      "name": " IOTW - BOG",
+      "author": "Thounej",
+      "pvm": {
+        "grade": "C",
+        "times": [
+          40400,
+          39900,
+          39600,
+          39300,
+          39100
+        ]
+      }
+    },
+    {
+      "tmx_id": 159269,
+      "name": "﻿Gelifracción ft xPPHx",
+      "author": "the.capman",
+      "pvm": {
+        "grade": "C",
+        "times": [
+          43600,
+          43200,
+          42950,
+          42700,
+          42500
+        ]
+      }
+    },
+    {
+      "tmx_id": 57292,
+      "name": "Adhesion Zero ft' sophie",
+      "author": "Rexasaurus",
+      "pvm": {
+        "grade": "C",
+        "times": [
+          54000,
+          53300,
+          52800,
+          52400,
+          52100
+        ]
+      }
+    },
+    {
+      "tmx_id": 364673,
+      "name": "GSL VII - Kerfuffle ft' bagels",
+      "author": "DarkLight203",
+      "pvm": {
+        "grade": "B",
+        "times": [
+          46700,
+          46000,
+          45600,
+          45250,
+          45000
+        ]
+      }
+    },
+    {
+      "tmx_id": 294597,
+      "name": "TM Games - Sea Krait",
+      "author": "Henkisme",
+      "pvm": {
+        "grade": "B",
+        "times": [
+          49000,
+          48400,
+          48000,
+          47750,
+          47500
+        ]
+      }
+    },
+    {
+      "tmx_id": 259722,
+      "name": "Altitude ft' Ealipse",
+      "author": "the.capman",
+      "pvm": {
+        "grade": "B",
+        "times": [
+          54600,
+          53900,
+          53500,
+          53100,
+          52750
+        ]
+      }
+    },
+    {
+      "tmx_id": 151398,
+      "name": "PIL - Clarity",
+      "author": "Keffin",
+      "pvm": {
+        "grade": "B",
+        "times": [
+          55900,
+          55200,
+          54700,
+          54300,
+          54000
+        ]
+      }
+    },
+    {
+      "tmx_id": 76922,
+      "name": "ISL - New Wave",
+      "author": "sophie.ice",
+      "pvm": {
+        "grade": "B",
+        "times": [
+          46000,
+          45400,
+          45000,
+          44600,
+          44350
+        ]
+      }
+    },
+    {
+      "tmx_id": 326870,
+      "name": "OFC - Utonium",
+      "author": "SimKingTM",
+      "pvm": {
+        "grade": "A",
+        "times": [
+          60500,
+          59500,
+          58900,
+          58400,
+          58000
+        ]
+      }
+    },
+    {
+      "tmx_id": 187717,
+      "name": "GIC II | Nelos",
+      "author": "Thounej",
+      "pvm": {
+        "grade": "A",
+        "times": [
+          50200,
+          49600,
+          49200,
+          48800,
+          48500
+        ]
+      }
+    },
+    {
+      "tmx_id": 182759,
+      "name": " RRCS - Gripping",
+      "author": "Roxiie",
+      "pvm": {
+        "grade": "A",
+        "times": [
+          50000,
+          49250,
+          48750,
+          48300,
+          48000
+        ]
+      }
+    },
+    {
+      "tmx_id": 176373,
+      "name": "GIC - Kuraokami",
+      "author": "quoT",
+      "pvm": {
+        "grade": "A",
+        "times": [
+          52400,
+          51800,
+          51400,
+          50950,
+          50600
+        ]
+      }
+    },
+    {
+      "tmx_id": 150763,
+      "name": "PIL - Snowy Crater",
+      "author": "NineToFiveGamer",
+      "pvm": {
+        "grade": "A",
+        "times": [
+          50200,
+          49600,
+          49200,
+          48750,
+          48450
+        ]
+      }
+    },
+    {
+      "tmx_id": 232230,
+      "name": "waltz",
+      "author": "sophie.ice",
+      "pvm": {
+        "grade": "S",
+        "times": [
+          74000,
+          72600,
+          71900,
+          71300,
+          70900
+        ]
+      }
+    },
+    {
+      "tmx_id": 231804,
+      "name": "RINGS OF FATE",
+      "author": "the.capman",
+      "pvm": {
+        "grade": "S",
+        "times": [
+          60400,
+          59600,
+          59000,
+          58500,
+          58150
+        ]
+      }
+    },
+    {
+      "tmx_id": 222726,
+      "name": "PIL - The Factory Must Grow ft' Doogie",
+      "author": "Henkisme",
+      "pvm": {
+        "grade": "S",
+        "times": [
+          65400,
+          64500,
+          63850,
+          63300,
+          62900
+        ]
+      }
+    },
+    {
+      "tmx_id": 217176,
+      "name": "PIL - Sven",
+      "author": "Keffin",
+      "pvm": {
+        "grade": "S",
+        "times": [
+          62500,
+          61800,
+          61300,
+          60900,
+          60600
+        ]
+      }
+    },
+    {
+      "tmx_id": 123979,
+      "name": "XPIce - Tonguetwister",
+      "author": "TheJermu",
+      "pvm": {
+        "grade": "S",
+        "times": [
+          55400,
+          54600,
+          53900,
+          53300,
+          52900
+        ]
+      }
+    },
+    {
+      "tmx_id": 350724,
+      "name": " XPIce26  - Trialthon ft thounej",
+      "author": "DoogieMD",
+      "pvm": {
+        "grade": "S+",
+        "times": [
+          65000,
+          63700,
+          62800,
+          62300,
+          61900
+        ]
+      }
+    },
+    {
+      "tmx_id": 294189,
+      "name": "PIL - Delight ft' henkisme",
+      "author": "Thounej",
+      "pvm": {
+        "grade": "S+",
+        "times": [
+          68000,
+          67200,
+          66600,
+          66100,
+          65700
+        ]
+      }
+    },
+    {
+      "tmx_id": 279911,
+      "name": "GNC II - Sanctus",
+      "author": "Thounej",
+      "pvm": {
+        "grade": "S+",
+        "times": [
+          79500,
+          78300,
+          77500,
+          76800,
+          76250
+        ]
+      }
+    },
+    {
+      "tmx_id": 265343,
+      "name": "XPIce25  - Encoder",
+      "author": "Henkisme",
+      "pvm": {
+        "grade": "S+",
+        "times": [
+          65000,
+          64200,
+          63550,
+          63050,
+          62650
+        ]
+      }
+    },
+    {
+      "tmx_id": 224393,
+      "name": "PIL - Loquacious ft DL",
+      "author": "burntbagels",
+      "pvm": {
+        "grade": "S+",
+        "times": [
+          62500,
+          61800,
+          61250,
+          60800,
+          60500
         ]
       }
     }
