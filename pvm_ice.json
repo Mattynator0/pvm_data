@@ -106,6 +106,81 @@
       }
     },
     {
+      "tmx_id": 282059,
+      "name": "ANGULAR ↻ MOMENTUM",
+      "author": "Rae.cute",
+      "pvm": {
+        "grade": "SPIN",
+        "times": [
+          44200,
+          43500,
+          42900,
+          42400,
+          42000
+        ]
+      }
+    },
+    {
+      "tmx_id": 243048,
+      "name": "Glacial Ice Campaign [21]",
+      "author": "GlacialMapping",
+      "pvm": {
+        "grade": "SPIN",
+        "times": [
+          68400,
+          67400,
+          66600,
+          66000,
+          65500
+        ]
+      }
+    },
+    {
+      "tmx_id": 199015,
+      "name": "[REVIVAL] Take A Look Around ft' Norbi",
+      "author": "BURLYpog",
+      "pvm": {
+        "grade": "SPIN",
+        "times": [
+          44200,
+          43500,
+          42900,
+          42300,
+          41800
+        ]
+      }
+    },
+    {
+      "tmx_id": 161884,
+      "name": "$pin2win2 ft Tag",
+      "author": "BURLYpog",
+      "pvm": {
+        "grade": "SPIN",
+        "times": [
+          35000,
+          34300,
+          33800,
+          33400,
+          33100
+        ]
+      }
+    },
+    {
+      "tmx_id": 86202,
+      "name": "Spin Station Xeru",
+      "author": "Henkisme",
+      "pvm": {
+        "grade": "SPIN",
+        "times": [
+          43800,
+          43200,
+          42700,
+          42300,
+          42000
+        ]
+      }
+    },
+    {
       "tmx_id": 279948,
       "name": "GNC II - Hans Island ft' envydmn",
       "author": "DoogieMD",
